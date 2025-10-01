@@ -1,0 +1,46 @@
+# GYM LS FIT
+
+**GYM LS FIT** é um aplicativo de fitness completo, projetado para ajudar usuários a alcançar seus objetivos de treino, monitorar progresso e seguir rotinas personalizadas. Ideal para iniciantes e atletas experientes.
+
+---
+
+## **Descrição do App**
+- Planejamento de treinos personalizados  
+- Visualização de exercícios com GIFs e vídeos  
+- Registro de progresso diário, semanal e mensal  
+- Painel para personal trainers acompanharem alunos  
+- Relatórios de desempenho e evolução física  
+
+---
+
+## **Instalação no Android**
+1. Baixe o arquivo APK disponível na aba `Releases` ou clique no arquivo APK no repositório.  
+2. Antes de instalar, ative **“Instalar apps de fontes desconhecidas”** nas configurações do seu dispositivo.  
+3. Abra o APK e siga as instruções para instalação.  
+4. Abra o app e comece seus treinos!
+
+> ⚠️ Nota: Este app não está publicado na Google Play, use por sua conta e risco.
+
+---
+
+## **Screenshots e GIFs**
+![Tela inicial](imagem/1.png)  
+![Exercício com GIF](imagem/3.png)  
+
+*(Adicione imagens/GIFs dentro da pasta `screenshots` no repositório para visualização)*
+
+---
+
+## **Versão**
+- v1.0 – Primeira versão pública beta  
+
+---
+
+## **Contato / Suporte**
+- E-mail: gymlsfit8@gmail.com 
+- Feedback e sugestões são bem-vindos para melhorias do app!  
+
+---
+
+## **Licença**
+Este projeto é distribuído gratuitamente para fins de teste e uso pessoal.
